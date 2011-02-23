@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3466
+
+Welcome to Vimake-1.16 as in previous versions Vimake turns your Vim editing session into a multi program IDE where you can write, build, test and run various programs written in C/CPP OBJC NASM GAS(AS) LUA  all run from the Function keys.
+New features include compile test and run APPS using Objective-C with the GNUstep libraries and header files. No need to to write a MAKEFILE. Further improvements have been made to the debug and viclean functions and documentation.
+
+ install details
+ copy  the package to your home directory then run
+ tar -zxvf vimake-1.16.tar.gz.
+ Change directory to the doc sub-dir of the package then follow Install,Configure and Tutorial in the html document.
+
